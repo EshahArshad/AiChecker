@@ -1,2 +1,3 @@
 # AiChecker
+AiChecker is an Ai Plagiarism detection tool which aims to ensure the authenticity of written content across various sectors. AiChecker can help academic institutions (with LMS integration), publishers, and legal firms in differentiating between human-authored texts and AI-generated content. This technology ensures the integrity of communications, promoting transparency and ethical standards as the worlds get concerningly dominated by AI-generated material. 
 AiChecker is a deployed model that uses FastAPI to handle uploads of PDF or DOCX files. It extracts text with LangChain data loaders and employs a RapidAPI service to identify AI-generated content, ensuring academic integrity.
