@@ -31,7 +31,7 @@ ____
 ## Outputs 
 - "success": true/False (Function Concluded successfully)
 - "ai": True/False (Whether if AI is Detected)
-- "percentage": X%, (Percentage of AI Content) 
+- "percentage": X%, (Percentage of Confidence) 
 - "input": "", (Shows input text content)
 - "highlighted": "", (Shows Highlighted Ai Content
 - "language": "", (Shows detected langauge, en - English) 
